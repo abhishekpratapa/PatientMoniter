@@ -1,2 +1,2 @@
-# PatientMoniter
-This is an example for a low cost patient monitor
+# Patient Moniter
+This is an implementation for a low cost patient monitor
